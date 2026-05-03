@@ -91,7 +91,6 @@ Built with Python, NLP, and Cosine Similarity, this system intelligently analyze
 
 * Email: [dawkarprathmesh99@gmail.com](mailto:dawkarprathmesh99@gmail.com)
 * Portfolio: https://prathmeshd-portfolio.vercel.app
-* GitHub: https://github.com/Prathmesh125
 * LinkedIn: https://linkedin.com/in/prathmeshdawkar
 
 ---
