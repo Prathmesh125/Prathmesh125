@@ -19,7 +19,8 @@ A smart expense tracking app that helps you effortlessly manage money you spend 
 Trackate supports automatic expense tracking, quick manual logging, and real-time insights—keeping your finances under control. It also includes seamless cloud sync and user authentication.
 
 🔗 <b>Links:</b>
-• <a href="https://github.com/Prathmesh125/Expense-Tracker">GitHub Repository</a>
+• <a href="https://play.google.com/store/apps/details?id=com.svnate.trackate">Play Store</a>
+• <a href="https://trackate.svnate.com/">Website</a>
 
 ---
 
@@ -30,18 +31,8 @@ A smart meal discovery app that helps you instantly decide what to eat through a
 SpinMeal suggests meals based on your preferences and lets you spin to instantly pick what to eat—removing decision fatigue and making decisions fun and effortless.
 
 🔗 <b>Links:</b>
-• <a href="https://github.com/Prathmesh125/SpinMeal">GitHub Repository</a>
-
----
-
-### Stationary Stories (Full-Stack Web App)
-
-An AI-powered inventory management SaaS with real-time dashboards and demand forecasting.
-
-Stationary Stories leverages the Gemini API to predict demand and utilizes a scalable MongoDB data layer on Next.js, enabling data-driven retail decision-making.
-
-🔗 <b>Links:</b>
-• <a href="https://github.com/Prathmesh125/StationaryStories">GitHub Repository</a>
+• <a href="https://play.google.com/store/apps/details?id=com.svnate.spinmeal">Play Store</a>
+• <a href="https://spinmeal.svnate.com/">Website</a>
 
 ---
 
@@ -52,7 +43,7 @@ An NLP-powered RAG-based course recommender with a 71%+ improvement over keyword
 Built with Python, NLP, and Cosine Similarity, this system intelligently analyzes MOOC datasets across Coursera, edX, and Khan Academy to provide highly personalized course recommendations.
 
 🔗 <b>Links:</b>
-• <a href="https://github.com/Prathmesh125/Intelligent-Course-Recommendation-System">GitHub Repository</a>
+• <a href="https://intelligent-course-recommendation-system.streamlit.app/">Website</a>
 
 ---
 
