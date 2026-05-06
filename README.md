@@ -12,7 +12,7 @@
 
 ## Featured Projects
 
-### Trackate (Native App - Android & iOS)
+### Trackate (Flutter App - Android & iOS)
 
 A smart expense tracking app that helps you effortlessly manage money you spend and money you’re owed.
 
