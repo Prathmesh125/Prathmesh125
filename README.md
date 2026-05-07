@@ -31,7 +31,7 @@ A smart meal discovery app that helps you instantly decide what to eat through a
 SpinMeal suggests meals based on your preferences and lets you spin to instantly pick what to eat—removing decision fatigue and making decisions fun and effortless.
 
 🔗 <b>Links:</b>
-• <a href="(https://apps.apple.com/us/app/spinmeal/id6765926995)">App Store</a>
+• <a href="https://apps.apple.com/us/app/spinmeal/id6765926995">App Store</a>
 • <a href="https://play.google.com/store/apps/details?id=com.svnate.spinmeal">Play Store</a>
 • <a href="https://spinmeal.svnate.com/">Website</a>
 
