@@ -26,7 +26,7 @@ Trackate supports automatic expense tracking, quick manual logging, and real-tim
 
 ### SpinMeal (Native App - Android & iOS)
 
-A smart meal discovery app that helps you instantly decide what to eat through a personalized spinning experience.
+a smart meal discovery app that helps you instantly decide what to eat through a personalized spinning experience.
 
 SpinMeal suggests meals based on your preferences and lets you spin to instantly pick what to eat—removing decision fatigue and making decisions fun and effortless.
 
