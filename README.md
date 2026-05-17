@@ -41,7 +41,7 @@ SpinMeal suggests meals based on your preferences and lets you spin to instantly
 
 An NLP-powered RAG-based course recommender with a 71%+ improvement over keyword matching.
 
-Build with Python, NLP, and Cosine Similarity, this system intelligently analyzes MOOC datasets across Coursera, edX, and Khan Academy to provide highly personalized course recommendations.
+Built with Python, NLP, and Cosine Similarity, this system intelligently analyzes MOOC datasets across Coursera, edX, and Khan Academy to provide highly personalized course recommendations.
 
 🔗 <b>Links:</b>
 • <a href="https://intelligent-course-recommendation-system.streamlit.app/">Website</a>
