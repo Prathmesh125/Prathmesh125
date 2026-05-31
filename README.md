@@ -19,6 +19,7 @@ A smart expense tracking app that helps you effortlessly manage money you spend 
 Trackate supports automatic expense tracking, quick manual logging, and real-time insights—keeping your finances under control. It also includes seamless cloud sync and user authentication.
 
 🔗 <b>Links:</b>
+• <a href="https://apps.apple.com/us/app/trackate/id6762513903">APP Store</a>
 • <a href="https://play.google.com/store/apps/details?id=com.svnate.trackate">Play Store</a>
 • <a href="https://trackate.svnate.com/">Website</a>
 
